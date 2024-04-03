@@ -1,4 +1,4 @@
-![Learn3DWeb Logo](logo_url_here)
+![Learn3DWeb Logo](./Learn3DWeb_Rec.svg)
 
 # Welcome to Learn3DWeb:
 
