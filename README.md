@@ -1,4 +1,6 @@
-![Learn3DWeb Logo](./Learn3DWeb_Rec.svg)
+<p align="center">
+  <img src="images/logo.png" alt="Learn3DWeb Logo">
+</p>
 
 # Welcome to Learn3DWeb:
 
